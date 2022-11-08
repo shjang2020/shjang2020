@@ -10,7 +10,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-red?style=flat&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-green?style=flat&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google colab-puple?style=flat&logo=Google colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google colab-purple?style=flat&logo=Google colab&logoColor=white"/>
 <!--
 **shjang2020/shjang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
