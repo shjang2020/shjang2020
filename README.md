@@ -21,20 +21,14 @@ Here are some ideas to get you started:
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter-E34F26?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=MYSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-F7DF1E?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat&logo=Google colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/QGIS%20SQL-F80000?style=flat&logo=QGIS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Excel-4479A1?style=flat&logo=Excel&logoColor=white" />
 
 </div>
 <br>
@@ -42,8 +36,10 @@ Here are some ideas to get you started:
 	<p>🛠 Tools 🛠</p>
 </div>
 <div>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jupyter-E34F26?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat&logo=Google colab&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyCharm-003545?style=flat&logo=PyCharm&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
