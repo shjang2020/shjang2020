@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Jupyter-E34F26?style=flat&logo=Jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Conda-E34F26?style=flat&logo=Conda&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat&logo=Google colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyCharm-003545?style=flat&logo=PyCharm&logoColor=white" />
