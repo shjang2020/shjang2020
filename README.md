@@ -1,4 +1,5 @@
 ### Hi I'm SeongHyun 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon&fontSize=90" />
 
 <!--
 **shjang2020/shjang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
