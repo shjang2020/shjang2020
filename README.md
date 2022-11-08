@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/QGIS%20SQL-F80000?style=flat&logo=QGIS&logoColor=white" />
+	<img src="https://img.shields.io/badge/QGIS-F80000?style=flat&logo=QGIS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Excel-4479A1?style=flat&logo=Excel&logoColor=white" />
 
 </div>
