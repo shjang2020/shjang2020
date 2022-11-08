@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div>
-	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=MYSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white" />
