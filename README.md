@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Notion-FF9800?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<a href="https://github.com/shjang2020">
-		<img src="https://img.shields.io/badge/Github-000005?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:wkdtjdgus2142@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-green?style=flat&logo=Gmail&logoColor=white" />
