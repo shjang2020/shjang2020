@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:wkdtjdgus2142@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-20B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="mailto:jjang2142@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B981?style=flat&logo=Naver&logoColor=white" />
