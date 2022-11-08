@@ -1,8 +1,3 @@
-
-
-### Tech Stack
-Techs that I've used at least once
-
 <img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-yellow?style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-red?style=flat&logo=Pytorch&logoColor=white"/>
@@ -23,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  ### Hi I'm SeongHyeon 👋
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Github!&fontSize=90" />	
 </div>
 <div>
