@@ -1,5 +1,13 @@
 ### Hi I'm SeongHyeon 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon!&fontSize=90" />
+---
+
+### Tech Stack
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
 <!--
 **shjang2020/shjang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
