@@ -85,12 +85,20 @@ Here are some ideas to get you started:
 |[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크](https://dacon.io/competitions/official/235743/overview/description)|
 |[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크](https://dacon.io/competitions/official/235863/overview/description)|
 
+		
+[학교] 		링크
+
 ## Project
-|제목|내용|설명|
+|주관|프로젝트명|링크|
 |:---:|:---:|:---:|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|[학교] 머신러닝|Kaggle inclass competition|[링크](https://github.com/shjang2020/Study/tree/main/ML/Project)|
+|[학교] AI빅데이터프로젝트|사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM)|[링크](https://github.com/shjang2020/Practical-Experience/tree/master/%EC%BA%A1%EC%8A%A4%ED%86%A4_recommendation%20system)|
+|[학교] 빅데이터프로젝트 : 캡스톤디자인2|Greyd 어플 컨설팅 프로젝트|[링크](https://github.com/shjang2020/Practical-Experience/tree/master/Greyd(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)|
+|[학교] D&A conference|목소리 데이터를 활용하여 음색이 비슷한 가수 추천|[링크]|
+|[학교] 텍스트데이터분석|네이버 웹툰 텍스트분석을 통한 웹툰 키워드 추출|[링크](https://github.com/shjang2020/Study/tree/main/Text-Data%20%2B%20Crawling/Project%20%2B%20Crawling%20experience)|
+|[학교] 딥러닝|Keypoint detection을 활용한 좌우밸런스 판독기[선행연구 조사 및 연구계획 수립]|[링크]|
+
+
 
 ---
 
