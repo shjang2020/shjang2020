@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 ## Competition
 |주관사|대회명|순위|링크|
 |:---:|:---:|:---:|
-|[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크] (https://dacon.io/competitions/official/235743/overview/description)|
-|[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크] (https://dacon.io/competitions/official/235863/overview/description)|
+|[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크](https://dacon.io/competitions/official/235743/overview/description)|
+|[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크](https://dacon.io/competitions/official/235863/overview/description)|
 
 ## Project
 |제목|내용|설명|
