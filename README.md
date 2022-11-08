@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Pytorch-F7DF1E?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/QGIS-F80000?style=flat&logo=QGIS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Excel-4479A1?style=flat&logo=EXCEL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Excel-4479A1?style=flat&logo=Microsoft Excel
+&logoColor=white" />
 
 </div>
 <br>
