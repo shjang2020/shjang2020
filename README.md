@@ -85,11 +85,10 @@ Here are some ideas to get you started:
 |2022.08 ~ |SKT|SKT AI 교육|교육|완료|
 
 ## Competition
-|제목|내용|설명|
+|주관사|대회명|순위|링크|
 |:---:|:---:|:---:|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크] (https://dacon.io/competitions/official/235743/overview/description)|
+|[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크] (https://dacon.io/competitions/official/235863/overview/description)|
 
 ## Project
 |제목|내용|설명|
