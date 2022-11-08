@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 	<a href="mailto:jjang2142@naver.com">
 		<img src="https://img.shields.io/badge/Mail-43B02A?style=flat&logo=Naver&logoColor=white" />
 	</a>
+	<a href="https://www.instagram.com/seong_82/">
+		<img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=Instagram&logoColor=white" />
+	</a>
 	<br>
 </div>
 
