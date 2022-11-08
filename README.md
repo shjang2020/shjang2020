@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Github!&fontSize=90" />	
 </div>
@@ -42,6 +44,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
+
+---
+
 <div>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -56,6 +61,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+
+---
+
 <div>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
