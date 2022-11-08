@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=MYSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Selenium-4479A1?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/QGIS-F7DF1E?style=flat&logo=QGIS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Excel-43B02A?style=flat&logo=Microsoft%20Excel&logoColor=white" />
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat&logo=Google colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyCharm-003545?style=flat&logo=PyCharm&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
