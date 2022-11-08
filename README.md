@@ -47,16 +47,13 @@ Here are some ideas to get you started:
 </div>
 <div>
 	<a href="https://www.notion.so/SeongHyun-655d731fb5b24495a36b47bd1cab5ee1">
-		<img src="https://img.shields.io/badge/Notion-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<a href="https://github.com/shjang2020">
 		<img src="https://img.shields.io/badge/Github-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:admin@yermi.co.kr">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
