@@ -6,7 +6,8 @@
 ### Tech Stack
 Techs that I've used at least once
 
-<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white"/>
