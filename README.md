@@ -1,8 +1,3 @@
-<img src="https://img.shields.io/badge/-orange?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-yellow?style=flat&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=MYSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-red?style=flat&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-green?style=flat&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google colab-purple?style=flat&logo=Google colab&logoColor=white"/>
 <!--
 **shjang2020/shjang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +26,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Pytorch-F7DF1E?style=flat&logo=Pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat&logo=Google colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
