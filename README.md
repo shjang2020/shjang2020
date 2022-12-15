@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 ## Competition
 |주관사|대회명|순위|링크|
 |:---:|:---:|:---:|:---:|
-|[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크]([https://dacon.io/competitions/official/235743/overview/description](https://github.com/shjang2020/DACON-Competition/tree/master/%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9%20%EC%8B%9D%EC%88%98%20%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C))|
-|[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크]([https://dacon.io/competitions/official/235863/overview/description](https://github.com/shjang2020/DACON-Competition/tree/master/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C))|
+|[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크](https://github.com/shjang2020/DACON-Competition/tree/master/%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9%20%EC%8B%9D%EC%88%98%20%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|
+|[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크](https://github.com/shjang2020/DACON-Competition/tree/master/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|
 
 ## Project
 |주관|프로젝트명|링크|
