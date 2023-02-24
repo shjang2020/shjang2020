@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|
 |[학교] AI빅데이터프로젝트|사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM)|[링크](https://github.com/shjang2020/Capstone_2022)|
 |[학교] 빅데이터프로젝트 : 캡스톤디자인2|Greyd 어플 컨설팅 프로젝트|[링크](https://github.com/shjang2020/Capstone1_2021)|
-|[학교] D&A conference|목소리 데이터를 활용하여 음색이 비슷한 가수 추천|준비중..|
+|[학교] D&A conference|목소리 데이터를 활용하여 음색이 비슷한 가수 추천|[링크](https://github.com/shjang2020/I_See_Your_Next_Song)|
 |[학교] 머신러닝|Kaggle inclass competition|[링크](https://github.com/shjang2020/KMU-Project/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%BB%B4%ED%8E%98%ED%8B%B0%EC%85%98)|
 |[학교] 텍스트데이터분석|네이버 웹툰 텍스트분석을 통한 웹툰 키워드 추출|[링크](https://github.com/shjang2020/KMU-Project/tree/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)|
 |[학교] 딥러닝|Keypoint detection을 활용한 좌우밸런스 판독기[선행연구 조사 및 연구계획 수립]|[링크](https://github.com/shjang2020/KMU-Project/tree/master/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)|
