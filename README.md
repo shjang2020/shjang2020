@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ## Career
 |기간|소속|부서|담당업무|프로젝트|
 |:---:|:---:|:---:|:---:|:---:|
-|2022.08 ~|(주)깃플|금융투자팀|데이터사이언티스트|[링크](https://github.com/shjang2020/Gitple_project)|
+|2022.08 ~ 11|(주)깃플|금융투자팀|데이터사이언티스트|[링크](https://github.com/shjang2020/Gitple_project)|
 
 ## Education
 |기간|소속|전공 & 교육|학위|비고|
@@ -84,6 +84,9 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|
 |[DACON] LH|구내식당 식수 인원 예측 AI 경진대회|13위(2%)|[링크](https://github.com/shjang2020/DACON-Competition/tree/master/%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9%20%EC%8B%9D%EC%88%98%20%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|
 |[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크](https://github.com/shjang2020/DACON-Competition/tree/master/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|
+|[DACON] 성균관대학교|문장 유형 분류 AI 경진대회|14위(4%)|[링크](https://github.com/shjang2020/DACON-Competition/tree/master/%EB%AC%B8%EC%9E%A5%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|
+|[DACON] 서울시립대학교|2022 UOS 빅데이터 알고리즘 경진대회|21위(9%)|[링크](https://github.com/shjang2020/DACON-Competition/tree/master/UOS%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|
+
 
 ## Project
 |주관|프로젝트명|링크|
