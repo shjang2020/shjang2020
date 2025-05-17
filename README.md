@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 ## Project
 |주관|프로젝트명|링크|
 |:---:|:---:|:---:|
-|자체 프로젝트|DistilBERT 기반 영화 추천 시스템 구현 및 FastAPI, Docker를 활용한 배포|[링크](./Recommendation/tree/main/Project/FastAPI%20and%20Docker%20practice)|
-|자체 프로젝트|광고 추천시스템 논문 구현(Transfer Learning for Expanding Advertiser Audiences)|[링크](./Recommendation/tree/main/Paper/Finding%20Users%20Who%20Act%20Alike_Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences)|
+|[독학] 추천시스템 및 API|DistilBERT 기반 영화 추천 시스템 구현 및 FastAPI, Docker를 활용한 배포|[링크](./Recommendation/tree/main/Project/FastAPI%20and%20Docker%20practice)|
+|[독학] 추천시스템|광고 추천시스템 논문 구현(Transfer Learning for Expanding Advertiser Audiences)|[링크](./Recommendation/tree/main/Paper/Finding%20Users%20Who%20Act%20Alike_Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences)|
 |[학회] D&A conference|음색 기반 노래 추천 시스템|[링크](./I_See_Your_Next_Song)|
 |[대학] AI빅데이터프로젝트|사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM)|[링크](./KMU_Capstone/tree/main/2022_Recommendation%20System)|
 |[대학] 빅데이터프로젝트|Greyd 어플 컨설팅 프로젝트|[링크](./KMU_Capstone/tree/main/2022_Recommendation%20System)|
