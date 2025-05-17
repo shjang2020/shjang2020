@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ## Project
 |주관|프로젝트명|구분|
 |:---:|:---:|:---:|
-|[학회] D&A conference|[음색 기반 노래 추천 시스템](./I_See_Your_Next_Song)|Recsys, Streamlit|
+|[학회] D&A conference|[음색 기반 노래 추천 시스템 개발](./I_See_Your_Next_Song)|Recsys, Streamlit|
 |[대학] AI빅데이터프로젝트|[일반화 적응 심층 잠재요인 추천시스템(G-ADLFM) 개발](./KMU_Capstone/tree/main/2022_Recommendation%20System)|Recsys|
 |[독학] 자체 프로젝트|[DistilBERT 기반 영화 추천 시스템 구현 및 FastAPI, Docker를 활용한 배포](./Recommendation/tree/main/Project/FastAPI%20and%20Docker%20practice)|Recsys, FastAPI, Docker|
 |[독학] 자체 프로젝트|[광고 추천시스템 논문 구현(Transfer Learning for Expanding Advertiser Audiences)](./Recommendation/tree/main/Paper/Finding%20Users%20Who%20Act%20Alike_Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences)|Recsys|
