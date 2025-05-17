@@ -15,55 +15,35 @@ Here are some ideas to get you started:
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeon%20Github!&fontSize=80" />	
 </div>
-<div>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
-<div>
-	<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=MYSQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pytorch-F80000?style=flat&logo=Pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-4479A1?style=flat&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/QGIS-F7DF1E?style=flat&logo=QGIS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Excel-43B02A?style=flat&logo=Microsoft%20Excel&logoColor=white" />
+## 📚 Tech Stack
 
-</div>
-<br>
-<div>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div>
-	<img src="https://img.shields.io/badge/Jupyter-E34F26?style=flat&logo=Jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Conda-E34F26?style=flat&logo=Anaconda&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google colab-6DB33F?style=flat&logo=Google colab&logoColor=white" />
-	<img src="https://img.shields.io/badge/PyCharm-003545?style=flat&logo=PyCharm&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
-<br>
-<div>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div>
-	<a href="https://www.notion.so/SeongHyun-655d731fb5b24495a36b47bd1cab5ee1">
-		<img src="https://img.shields.io/badge/Notion-FF9800?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<a href="https://github.com/shjang2020">
-		<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="mailto:wkdtjdgus2142@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-green?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="mailto:jjang2142@naver.com">
-		<img src="https://img.shields.io/badge/Mail-43B02A?style=flat&logo=Naver&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/seong_82/">
-		<img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=Instagram&logoColor=white" />
-	</a>
-	<br>
-</div>
+### ✨ Platforms & Languages
+
+![Python](https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1572B6?style=flat&logo=MYSQL&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Pytorch-F80000?style=flat&logo=Pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-0769AD?style=flat&logo=Tensorflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4479A1?style=flat&logo=Selenium&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-F7DF1E?style=flat&logo=QGIS&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-43B02A?style=flat&logo=Microsoft%20Excel&logoColor=white)
+
+### 🛠 Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-E34F26?style=flat&logo=Jupyter&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-E34F26?style=flat&logo=Anaconda&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20colab-6DB33F?style=flat&logo=Google%20colab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-003545?style=flat&logo=PyCharm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+
+### 🎨 SNS & Portfolio
+
+[![Notion](https://img.shields.io/badge/Notion-FF9800?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/SeongHyun-655d731fb5b24495a36b47bd1cab5ee1)
+[![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=Blogger&logoColor=white)](https://github.com/shjang2020)
+[![Gmail](https://img.shields.io/badge/Mail-green?style=flat&logo=Gmail&logoColor=white)](mailto:wkdtjdgus2142@gmail.com)
+[![Naver](https://img.shields.io/badge/Mail-43B02A?style=flat&logo=Naver&logoColor=white)](mailto:jjang2142@naver.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/seong_82/)
 
 ---
 ## Career
