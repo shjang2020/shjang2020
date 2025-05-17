@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 |[대학] 캡스톤 프로젝트|[일반화 적응 심층 잠재요인 추천시스템(G-ADLFM) 개발](./KMU_Capstone/tree/main/2022_Recommendation%20System)|Recsys|
 |[독학] 자체 프로젝트|[DistilBERT 기반 영화 추천 시스템 구현 및 FastAPI, Docker를 활용한 배포](./Recommendation/tree/main/Project/FastAPI%20and%20Docker%20practice)|Recsys, FastAPI, Docker|
 |[독학] 자체 프로젝트|[광고 추천시스템 논문 구현(Transfer Learning for Expanding Advertiser Audiences)](./Recommendation/tree/main/Paper/Finding%20Users%20Who%20Act%20Alike_Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences)|Recsys|
-|[대학] 캡스톤 프로젝트|[Greyd 어플 컨설팅 프로젝트](./KMU_Capstone/tree/main/2022_Recommendation%20System)|NLP, Crawling, 데이터분석|
-|[대학] 텍스트데이터분석|[무신사 리뷰 텍스트 분석을 통한 트랜드 파악](./KMU_Project/tree/main/텍스트데이터분석%20프로젝트)|NLP, Crawling, 데이터분석|
+|[대학] 캡스톤 프로젝트|[Greyd 어플 컨설팅 프로젝트](./KMU_Capstone/tree/main/2022_Recommendation%20System)|NLP, Crawling, DA|
+|[대학] 텍스트데이터분석|[무신사 리뷰 텍스트 분석을 통한 트랜드 파악](./KMU_Project/tree/main/텍스트데이터분석%20프로젝트)|NLP, Crawling, DA|
 |[대학] 머신러닝|[Kaggle inclass competition](./KMU_Project/tree/main/머신러닝%20컴페티션)|ML|
 
 ## Competition
