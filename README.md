@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 |2022.08 ~ 2023.09|SKT|2022 SKT AI 커리큘럼|교육|완료|
 
 ## Project
-|구분|프로젝트명|주관|
+|주관|프로젝트명|구분|
 |:---:|:---:|:---:|
+|[학회] D&A conference|[음색 기반 노래 추천 시스템](./I_See_Your_Next_Song)|Recsys, Streamlit|
+|[대학] AI빅데이터프로젝트|[일반화 적응 심층 잠재요인 추천시스템(G-ADLFM) 개발](./KMU_Capstone/tree/main/2022_Recommendation%20System)|Recsys|
 |[독학] 자체 프로젝트|[DistilBERT 기반 영화 추천 시스템 구현 및 FastAPI, Docker를 활용한 배포](./Recommendation/tree/main/Project/FastAPI%20and%20Docker%20practice)|Recsys, FastAPI, Docker|
 |[독학] 자체 프로젝트|[광고 추천시스템 논문 구현(Transfer Learning for Expanding Advertiser Audiences)](./Recommendation/tree/main/Paper/Finding%20Users%20Who%20Act%20Alike_Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences)|Recsys|
-|[학회] D&A conference|[음색 기반 노래 추천 시스템](./I_See_Your_Next_Song)|Recsys, Streamlit|
-|[대학] AI빅데이터프로젝트|[사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM)](./KMU_Capstone/tree/main/2022_Recommendation%20System)|Recsys|
 |[대학] 빅데이터프로젝트|[Greyd 어플 컨설팅 프로젝트](./KMU_Capstone/tree/main/2022_Recommendation%20System)|NLP, Crawling, 데이터분석|
 |[대학] 텍스트데이터분석|[무신사 리뷰 텍스트 분석을 통한 트랜드 파악](./KMU_Project/tree/main/텍스트데이터분석%20프로젝트)|NLP, Crawling, 데이터분석|
 |[대학] 머신러닝|[Kaggle inclass competition](./KMU_Project/tree/main/머신러닝%20컴페티션)|ML|
