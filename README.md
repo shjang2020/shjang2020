@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ## Career
 |기간|소속|부서|담당업무|프로젝트|
 |:---:|:---:|:---:|:---:|:---:|
-|2022.08 ~ 2022.11|(주)깃플|금융투자팀|데이터사이언티스트|[링크](https://github.com/shjang2020/Gitple_project)|
+|2022.08 ~ 2022.11|(주)깃플|금융투자팀|데이터사이언티스트(인턴)|[링크](https://github.com/shjang2020/Gitple_project)|
 |2023.08 ~ 2025.03|신한저축은행|전략기획부|사원|-|
 
 ## Education
