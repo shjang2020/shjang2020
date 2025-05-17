@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 |2022.08 ~ 2023.09|SKT|2022 SKT AI 커리큘럼|교육|완료|
 
 ## Project
-|주관|프로젝트명|링크|
+|구분|프로젝트명|링크|
 |:---:|:---:|:---:|
 |[독학] 추천시스템 및 API|DistilBERT 기반 영화 추천 시스템 구현 및 FastAPI, Docker를 활용한 배포|[링크](./Recommendation/tree/main/Project/FastAPI%20and%20Docker%20practice)|
 |[독학] 추천시스템|광고 추천시스템 논문 구현(Transfer Learning for Expanding Advertiser Audiences)|[링크](./Recommendation/tree/main/Paper/Finding%20Users%20Who%20Act%20Alike_Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences)|
