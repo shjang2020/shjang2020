@@ -83,11 +83,11 @@ Here are some ideas to get you started:
 ## Project
 |주관|프로젝트명|링크|
 |:---:|:---:|:---:|
-|[학교] D&A conference|음색 기반 노래 추천 시스템|[링크](./I_See_Your_Next_Song)|
-|[학교] AI빅데이터프로젝트|사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM)|[링크](./KMU_Capstone/tree/main/2022_Recommendation%20System)|
-|[학교] 빅데이터프로젝트|Greyd 어플 컨설팅 프로젝트|[링크](./KMU_Capstone/tree/main/2022_Recommendation%20System)|
-|[학교] 텍스트데이터분석|무신사 리뷰 텍스트 분석을 통한 트랜드 파악|[링크](./KMU_Project/tree/main/텍스트데이터분석%20프로젝트)|
-|[학교] 머신러닝|Kaggle inclass competition|[링크](./KMU_Project/tree/main/머신러닝%20컴페티션)|
+|[학회] D&A conference|음색 기반 노래 추천 시스템|[링크](./I_See_Your_Next_Song)|
+|[대학] AI빅데이터프로젝트|사용자 및 아이템에 대한 적응적 표현을 활용한 일반화 추천 시스템(G-ADLFM)|[링크](./KMU_Capstone/tree/main/2022_Recommendation%20System)|
+|[대학] 빅데이터프로젝트|Greyd 어플 컨설팅 프로젝트|[링크](./KMU_Capstone/tree/main/2022_Recommendation%20System)|
+|[대학] 텍스트데이터분석|무신사 리뷰 텍스트 분석을 통한 트랜드 파악|[링크](./KMU_Project/tree/main/텍스트데이터분석%20프로젝트)|
+|[대학] 머신러닝|Kaggle inclass competition|[링크](./KMU_Project/tree/main/머신러닝%20컴페티션)|
 
 ## Competition
 |주관사|대회명|순위|링크|
