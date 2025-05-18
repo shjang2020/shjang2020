@@ -79,14 +79,3 @@ Here are some ideas to get you started:
 |[DACON] 고용정보원|잡케어 추천 알고리즘 경진대회|13위(2%)|[링크](https://github.com/shjang2020//Competition/tree/main/Dacon/잡케어%20추천%20알고리즘%20경진대회)|
 |[DACON] 성균관대학교|문장 유형 분류 AI 경진대회|14위(4%)|[링크](https://github.com/shjang2020//Competition/tree/main/Dacon/문장%20유형%20분류%20AI%20경진대회)|
 |[DACON] 서울시립대학교|2022 UOS 빅데이터 알고리즘 경진대회|21위(9%)|[링크](https://github.com/shjang2020//Competition/tree/main/Dacon/UOS%20빅데이터%20알고리즘%20경진대회)|
-
-
----
-
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shjang2020&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=shjang2020&show_icons=true">
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=shjang2020)
-</div>
